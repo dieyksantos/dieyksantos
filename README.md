@@ -19,6 +19,22 @@ Estou no início dessa jornada com muita dedicação: estudando arquitetura de d
 
 <img 
     align="left" 
+    alt="NumPy"
+    title="NumPy" 
+    width="30px" 
+    style="padding-right: 10px;" 
+   src="https://img.icons8.com/color/48/numpy.png"
+/>
+<img 
+    align="left" 
+    alt="PANDAS"
+    title="PANDAS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+   src="https://img.icons8.com/color/48/pandas.png"
+/>
+<img 
+    align="left" 
     alt="AWS"
     title="AWS" 
     width="30px" 
