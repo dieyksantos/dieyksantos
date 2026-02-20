@@ -1,10 +1,18 @@
 # Dieyksantos 
 
-**`Desenvolvedor FullStack`**
+**AI & Data Developer**
 
-Me chamo Dieykson Pereira, tenho 32 anos e sou natural de Minas Gerais. Concluí o ensino médio no E.E.SMA, com o curso tecnico em Informatica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na WYDEN.
+🚀 Me chamo Dieykson, tenho 32 anos e sou Desenvolvedor em transição para o futuro da tecnologia — onde Inteligência Artificial, Cloud e Dados se encontram para resolver problemas reais.
 
+Tenho background em desenvolvimento Front-end e Mobile, o que me deu uma visão prática de produto e experiência do usuário. Hoje, estou canalizando essa base para construir soluções inteligentes com Python, Machine Learning, AWS e Azure.
 
+Estou no início dessa jornada com muita dedicação: estudando arquitetura de dados, pipelines em nuvem, modelos de ML e como aplicar tudo isso em produtos que gerem impacto real.
+
+💡 O que me move: a interseção entre código, dados e decisões inteligentes. Acredito que a IA não substitui devs — ela amplifica quem sabe usá-la.
+
+📌 Stack atual: Python · Pandas · NumPy · Scikit-learn · AWS (S3, Lambda, EC2) · Azure (Cognitive Services, Azure ML) · Power BI · SQL
+
+📬 Aberto a oportunidades, colaborações e trocar ideias sobre IA, dados e cloud.
 ---
 
 ### 🤖 Linguagens e Tecnologias
