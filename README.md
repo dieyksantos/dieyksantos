@@ -1,120 +1,59 @@
-# Dieyksantos 
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
 
-**AI & Data Developer**
+<!-- Presentation -->
+<p>
+Olá 👋, sou o Dieykson! Um estudante apaixonado de Engenharia de Software e Ciencia de Dados com I.A.
 
-🚀 Me chamo Dieykson, tenho 32 anos e sou Desenvolvedor em transição para o futuro da tecnologia — onde Inteligência Artificial, Cloud e Dados se encontram para resolver problemas reais.
+    🌱 Atualmente estou estudando Engenhararia de Software e Ciência de Dados com I.A.
 
-Tenho background em desenvolvimento Front-end e Mobile, o que me deu uma visão prática de produto e experiência do usuário. Hoje, estou canalizando essa base para construir soluções inteligentes com Python, Machine Learning, AWS e Azure.
+    🔭 Estou procurando minha primeira oportunidade de emprego.
+</p>
 
-Estou no início dessa jornada com muita dedicação: estudando arquitetura de dados, pipelines em nuvem, modelos de ML e como aplicar tudo isso em produtos que gerem impacto real.
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 Mais sobre mim</summary>
 
-💡 O que me move: a interseção entre código, dados e decisões inteligentes. Acredito que a IA não substitui devs — ela amplifica quem sabe usá-la.
+  - 💬 Tenho  anos 32 e atualmente moro no Brasil. Tenho experiência com SQL, Python, análise de dados, visualização de dados e aprendizagem automática.
+  - ⚡ Gosto de ler, seja um bom livro, bem como assistir a filmes e tocar um instrumento! Acredito que os nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas. \o/
+</details>
 
-📌 Stack atual: Python · Pandas · NumPy · Scikit-learn · AWS (S3, Lambda, EC2) · Azure (Cognitive Services, Azure ML) · Power BI · SQL
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
 
-📬 Aberto a oportunidades, colaborações e trocar ideias sobre IA, dados e cloud.
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="NumPy"
-    title="NumPy" 
-    width="30px" 
-    style="padding-right: 10px;" 
-   src="https://img.icons8.com/color/48/numpy.png"
-/>
-<img 
-    align="left" 
-    alt="PANDAS"
-    title="PANDAS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-   src="https://img.icons8.com/color/48/pandas.png"
-/>
-<img 
-    align="left" 
-    alt="AWS"
-    title="AWS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/office/40/amazon.png"
-/>
-<img 
-    align="left" 
-    alt="REACT"
-    title="REACT" 
-    width="30px" 
-    style="padding-right: 10px;" 
-  src="https://img.icons8.com/office/40/react.png"
-/>
-<img 
-    align="left" 
-    alt="DADOS"
-    title="DADOS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/fluency/48/database--v1.png"
-/>
-<img 
-    align="left" 
-    alt="FIGMA"
-    title="FIGMA" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/officel/80/figma.png"
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="machine Learning" 
-    title="machine Learning"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src= "https://img.icons8.com/nolan/64/artificial-intelligence.png" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
+## 🔥 Skills
+<!-- Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="TypeScript" heignt="30" width="40" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-green-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-green-tal-revivo"/>
+   <img align="center" alt="C#" heignt="30" width="40" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/>
+   <img align="center" alt="Js" height="30" width="40" src=https://img.icons8.com/stickers/100/artificial-intelligence.png
+   
+  </div>
+  
+  <!-- Skills: Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="React" heignt="30" width="40" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
+    <img align="center" alt="Node" heignt="30" width="40" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
+ <img align="center" alt="dj" heignt="30" width="40"src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo"/>
+  </div>
+  
+  <!-- Skills: Libraries -->
+  <div style="flex-basis: 48%;">
+    <h3>Libraries</h3>
+    <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+    <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </div>
