@@ -51,6 +51,7 @@ Olá 👋, sou o Dieykson! Um estudante apaixonado de Engenharia de Software e C
     <img align="center" alt="React" heignt="30" width="40" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
     <img align="center" alt="Node" heignt="30" width="40" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
  <img align="center" alt="dj" heignt="30" width="40"src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo"/>
+    <img align="center" alt="Node" heignt="30" width="40" src=https://img.icons8.com/plasticine/100/postgreesql.png>
   </div>
   
   <!-- Skills: Libraries -->
