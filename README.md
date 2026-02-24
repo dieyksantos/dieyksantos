@@ -34,7 +34,11 @@ Olá 👋, sou o Dieykson! Um estudante apaixonado de Engenharia de Software e C
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="TypeScript" heignt="30" width="40" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-green-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-green-tal-revivo"/>
    <img align="center" alt="C#" heignt="30" width="40" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/>
-   <img align="center" alt="Js" height="30" width="40" src=https://img.icons8.com/stickers/100/artificial-intelligence.png
+   <img align="center" alt="Js" height="30" width="40" src=https://img.icons8.com/stickers/100/artificial-intelligence.png>
+   <img align="center" alt="Js" height="45" width="40" src=https://img.icons8.com/fluency/48/sql.png>
+    <img align="center" alt="Js" height="45" width="40" src=https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-shadow-tal-revivo.png>
+   
+   
    
   </div>
   
