@@ -1,64 +1,142 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Olá%2C+eu+sou+o+Dieykson+Santos+👋;Engenheiro+de+Software+em+formação;Especialista+em+Python+%26+Dados+com+IA;Aberto+a+oportunidades+%26+Freelance+🚀" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dieykson-pereira/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dieyksantos)
+[![Portfólio](https://img.shields.io/badge/Portfólio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://saude-saude-dashboard.vercel.app)
+[![Aberto a Oportunidades](https://img.shields.io/badge/Status-Aberto%20a%20Oportunidades-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)]()
+
 </div>
 
-<!-- Presentation -->
-<p>
-Olá 👋, sou o Dieykson! Um estudante apaixonado de Engenharia de Software e Ciencia de Dados com I.A.
+---
 
-    🌱 Atualmente estou estudando Engenhararia de Software e Ciência de Dados com I.A.
+## 👨‍💻 Sobre mim
 
-    🔭 Estou procurando minha primeira oportunidade de emprego.
-</p>
+```python
+class Dieykson:
+    nome       = "Dieykson Santos"
+    idade      = 32
+    localidade = "Brasil 🇧🇷"
+    foco       = ["Engenharia de Software", "Ciência de Dados", "IA"]
+    status     = "Buscando primeira oportunidade + aberto a freelance 🚀"
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 Mais sobre mim</summary>
+    def skills(self):
+        return {
+            "linguagens" : ["Python", "JavaScript", "TypeScript", "Java", "SQL"],
+            "dados"      : ["Pandas", "NumPy", "Scikit-learn", "Seaborn"],
+            "web"        : ["React", "Node.js", "Django", "FastAPI", "Spring Boot"],
+            "cloud"      : ["AWS", "PostgreSQL", "SQLite"],
+            "ferramentas": ["Git", "VSCode", "Vercel", "Render"]
+        }
 
-  - 💬 Tenho  anos 32 e atualmente moro no Brasil. Tenho experiência com SQL, Python, análise de dados, visualização de dados e aprendizagem automática.
-  - ⚡ Gosto de ler, seja um bom livro, bem como assistir a filmes e tocar um instrumento! Acredito que os nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas. \o/
-</details>
+    def objetivo(self):
+        return "Transformar dados e código em soluções reais — seja num time ou no seu projeto."
+```
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
+---
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="TypeScript" heignt="30" width="40" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-green-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-green-tal-revivo"/>
-   <img align="center" alt="java" heignt="30" width="40" src="https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png"/>
-   <img align="center" alt="Js" height="30" width="40" src=https://img.icons8.com/stickers/100/artificial-intelligence.png>
-   <img align="center" alt="Js" height="45" width="40" src=https://img.icons8.com/fluency/48/sql.png>
-    <img align="center" alt="Js" height="45" width="40" src=https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-shadow-tal-revivo.png>
-   
-   
-   
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Springboot" height="45" width="40" src="https://img.icons8.com/color/48/spring-logo.png">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="React" heignt="30" width="40" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
-    <img align="center" alt="Node" heignt="30" width="40" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
- <img align="center" alt="dj" heignt="30" width="40"src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo"/>
-    <img align="center" alt="Node" heignt="30" width="40" src=https://img.icons8.com/plasticine/100/postgreesql.png>
-  </div>
-  
-  <!-- Skills: Libraries -->
-  <div style="flex-basis: 48%;">
-    <h3>Libraries</h3>
-    <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </div>
+## 🎯 O que ofereço
+
+| 💼 Para empresas | 🛠️ Para freelance |
+|---|---|
+| Desenvolvedor dedicado e em constante evolução | Desenvolvimento de dashboards e APIs |
+| Domínio em Python, dados e desenvolvimento web | Análise e visualização de dados |
+| Perfil analítico com foco em resultado | Sistemas com IA e automações |
+| Comunicação clara e comprometimento total | Entrega rápida com qualidade |
+
+---
+
+## 🔥 Stack Técnica
+
+### 🧠 Linguagens & IA
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</div>
+
+<br/>
+
+### 🌐 Frameworks & Backend
+<div>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div>
+
+<br/>
+
+### 📊 Dados & Machine Learning
+<div>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
+
+<br/>
+
+### 🛠️ Ferramentas
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dieyksantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieyksantos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF"/>
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dieyksantos&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🚀 Projeto em Destaque
+
+<div align="center">
+
+[![HealthSaúde Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=dieyksantos&repo=healthSaude-dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/dieyksantos/healthSaude-dashboard)
+
+</div>
+
+> 🏥 Plataforma de monitoramento de saúde com geração de planos personalizados via IA, dashboard interativo e exportação em PDF. Stack: **React · FastAPI · Python · SQLite**
+
+---
+
+## 📬 Vamos conversar?
+
+<div align="center">
+
+Estou buscando minha **primeira oportunidade como dev** e também aceito **projetos freelance**. Se você tem uma vaga ou um projeto interessante, me chama!
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Me+chama+no+LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dieykson-pereira/)
+[![GitHub](https://img.shields.io/badge/Veja+meus+projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dieyksantos)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Feito com ❤️ e muito ☕ por <a href="https://github.com/dieyksantos">Dieykson Santos</a></sub>
+</div>
