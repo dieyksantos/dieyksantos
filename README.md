@@ -27,11 +27,12 @@
 
 ```python
 class Dieykson:
-    nome       = "Dieykson Pereira dos Santos"
-    idade      = 32
-    localidade = "Brasil 🇧🇷"
-    foco       = ["Engenharia de Software", "Ciência de Dados", "IA"]
-    status     = "Buscando primeira oportunidade + aberto a freelance 🚀"
+    nome         = "Dieykson Pereira dos Santos"
+    idade        = 32 
+    estado civil = "casado"
+    localidade   = "Brasil 🇧🇷"
+    foco         = ["Engenharia de Software", "Ciência de Dados", "IA"]
+    status       = "Buscando primeira oportunidade + aberto a freelance 🚀"
 
     def skills(self):
         return {
