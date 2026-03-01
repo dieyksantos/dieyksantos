@@ -11,7 +11,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Engenheiro+de+Software+em+formação;Especialista+em+Python+%26+Dados+com+IA;Desenvolvedor+Full+Stack;Aberto+a+oportunidades+%26+Freelance+🚀" alt="Typing SVG" />
 
 <br/>
 
