@@ -1,6 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Olá%2C+eu+sou+o+Dieykson+Santos+👋;Engenheiro+de+Software+em+formação;Especialista+em+Python+%26+Dados+com+IA;Aberto+a+oportunidades+%26+Freelance+🚀" alt="Typing SVG" />
+<!-- Animação tecnológica de engenheiro de software -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+
+</div>
+
+<div align="center">
+
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Engenheiro+de+Software+em+formação;Especialista+em+Python+%26+Dados+com+IA;Desenvolvedor+Full+Stack;Aberto+a+oportunidades+%26+Freelance+🚀" alt="Typing SVG" />
 
 <br/>
 
@@ -95,17 +106,10 @@ class Dieykson:
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribuições
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dieyksantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieyksantos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF"/>
-
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dieyksantos&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img src="https://raw.githubusercontent.com/dieyksantos/dieyksantos/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -138,5 +142,7 @@ Estou buscando minha **primeira oportunidade como dev** e também aceito **proje
 ---
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400"/>
+  <br/><br/>
   <sub>Feito com ❤️ e muito ☕ por <a href="https://github.com/dieyksantos">Dieykson Santos</a></sub>
 </div>
