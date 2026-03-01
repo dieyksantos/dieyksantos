@@ -27,7 +27,7 @@
 
 ```python
 class Dieykson:
-    nome       = "Dieykson Santos"
+    nome       = "Dieykson Pereira dos Santos"
     idade      = 32
     localidade = "Brasil 🇧🇷"
     foco       = ["Engenharia de Software", "Ciência de Dados", "IA"]
